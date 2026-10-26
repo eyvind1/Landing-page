@@ -37,7 +37,7 @@ Abre `http://localhost:5173` en el navegador. Los cambios se reflejan automátic
 ├── index.html              # Punto de entrada HTML (título, meta SEO, tema inicial)
 ├── public/                 # Archivos estáticos servidos tal cual
 │   ├── experiencias/       # Imágenes de la vista Experiencias 3D
-│   └── sounds/             # Sonidos: click, hover y ambient
+│   └── sounds/             # Sonidos: click y hover
 └── src/
     ├── main.jsx            # Arranque de React y proveedores
     ├── App.jsx             # Cabecera, pie y cambio entre vistas
